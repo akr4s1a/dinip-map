@@ -146,6 +146,8 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-235, -4429, 64], "title": "Doc's swamp farms", "icon": "doc.png"},
 
+				{ "pos": [-240, -5545, 64], "title": "Doc's bonemeal farm", "icon": "doc.png"},
+
 				{ "pos" : [8280, 800, 64], "title" : "Keralis' dye farms", "icon" : "keralis.png" },
 				
 				{ "pos" : [1704, -1516, 64], "title" : "Mumbo's slime farm", "icon" : "mumbo.png" },
@@ -153,6 +155,9 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [-3810, -2150, 64], "title" : "Tango's raid farm", "icon" : "tango.png" },
 
 				{ "pos" : [-240, -320, 64], "title" : "Log Land (Xisuma)", "icon" : "xisuma.png" },
+
+				{ "pos" : [-970, -3395, 64], "title" : "Golia (Xisuma)", "icon" : "xisuma.png" },
+				
 			],
 		},
 	},
