@@ -103,6 +103,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-220, 77, 64], "title": "Ren's exoplanetary outpost", "icon": "rendog.png" },
 
 				{ "pos": [-670, -180, 64], "title": "Skizz's pyramid", "icon": "skizz.png" },
+
+				{ "pos": [1167, -817, 40], "title": "Xb's Guardian Base", "icon": "xb.png" }
 			],
 		},
 	},
