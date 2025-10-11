@@ -100,7 +100,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-280, 345, 64], "title": "False's base", "icon": "false.png" },
 
-				{ "pos": [-815, -255, 64], "title": "Gem's village", "icon": "gem.png" },
+				{ "pos": [-815, -255, 64], "title": "Gem's village", "icon": "gemini.png" },
 
 				{ "pos": [-124, -220, 64], "title": "Jevin's castle", "icon": "ijevin.png" },
 
