@@ -118,7 +118,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-936, -114, 64], "title": "Tango's factory and airship", "icon": "tango.png" },
 
-				{ "pos": [1167, -817, 40], "title": "Xb's Guardian Base", "icon": "xb.png" }
+				{ "pos": [1167, -817, 40], "title": "Xb's Guardian Base", "icon": "xb.png" },
 
 				{ "pos": [-484, -287, 64], "title": "Pixelpulse City (Impulse and Bdubs)", "icon": "poi.png" }
 			],
@@ -141,39 +141,39 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-494, 600, 64], "title": "Tennis (Bdubs)", "icon": "bdubs.png" }
+				{ "pos": [-494, 600, 64], "title": "Tennis (Bdubs)", "icon": "bdubs.png" },
 
-				{ "pos": [-346, 665, 64], "title": "Guess the Hermit (Cleo)", "icon": "cleo.png" }
+				{ "pos": [-346, 665, 64], "title": "Guess the Hermit (Cleo)", "icon": "cleo.png" },
 
-				{ "pos": [-288, 657, 64], "title": "Ghasketball (Cub)", "icon": "cub2.png" }
+				{ "pos": [-288, 657, 64], "title": "Ghasketball (Cub)", "icon": "cub2.png" },
 				
-				{ "pos": [-536, 675, 64], "title": "Pot Shot (Cub)", "icon": "cub2.png" }
+				{ "pos": [-536, 675, 64], "title": "Pot Shot (Cub)", "icon": "cub2.png" },
 
 				{ "pos": [731, -2054, 64], "title": "The Labyrinth", "icon": "cub2.png" },
 
-				{ "pos": [300, 425, 64], "title": "Ravager Rush/Etho's froglight shop", "icon": "etho.png" }
+				{ "pos": [300, 425, 64], "title": "Ravager Rush/Etho's froglight shop", "icon": "etho.png" },
 
-				{ "pos": [581, 202, 64], "title": "Go Touch Grass/Impulse's grass shop", "icon": "impulse.png" }
+				{ "pos": [581, 202, 64], "title": "Go Touch Grass/Impulse's grass shop", "icon": "impulse.png" },
 
-				{ "pos": [-421, -196, 64], "title": "Metro Mayhem (Impulse)", "icon": "impulse.png" }
+				{ "pos": [-421, -196, 64], "title": "Metro Mayhem (Impulse)", "icon": "impulse.png" },
 
-				{ "pos": [-511, -353, 64], "title": "The Dipple Drop (Impulse)", "icon": "impulse.png" }
+				{ "pos": [-511, -353, 64], "title": "The Dipple Drop (Impulse)", "icon": "impulse.png" },
 
-				{ "pos": [577, 144, 64], "title": "Pearl's dye shop/Dyeduction/\"Pearldle\"", "icon": "pearl.png" }
+				{ "pos": [577, 144, 64], "title": "Pearl's dye shop/Dyeduction/\"Pearldle\"", "icon": "pearl.png" },
 
-				{ "pos": [-443, 706, 64], "title": "Hungry Hermits (Tango)", "icon": "tango.png" }
+				{ "pos": [-443, 706, 64], "title": "Hungry Hermits (Tango)", "icon": "tango.png" },
 				
-				{ "pos": [-653, 711, 64], "title": "The Tangler (Tango)", "icon": "tango.png" }
+				{ "pos": [-653, 711, 64], "title": "The Tangler (Tango)", "icon": "tango.png" },
 				
-				{ "pos": [-358, 760, 64], "title": "Mace Race (Xisuma)", "icon": "xisuma.png" }
+				{ "pos": [-358, 760, 64], "title": "Mace Race (Xisuma)", "icon": "xisuma.png" },
 				
-				{ "pos": [-286, 724, 64], "title": "Dodgeball (Xisuma)", "icon": "xisuma.png" }
+				{ "pos": [-286, 724, 64], "title": "Dodgeball (Xisuma)", "icon": "xisuma.png" },
 
-				{ "pos": [-567, 881, 64], "title": "Filming location of \"Is That Sheep Looking At Me?\"", "icon": "zedaph.png" }
+				{ "pos": [-567, 881, 64], "title": "Filming location of \"Is That Sheep Looking At Me?\"", "icon": "zedaph.png" },
 
-				{ "pos": [543, 215, 64], "title": "Site of the first Permitmaster", "icon": "poi.png" }
+				{ "pos": [543, 215, 64], "title": "Site of the first Permitmaster", "icon": "poi.png" },
 
-				{ "pos": [-395, 650, 64], "title": "TCG Arena", "icon": "poi.png" }
+				{ "pos": [-395, 650, 64], "title": "TCG Arena", "icon": "poi.png" },
 				
 				{ "pos": [-575, 691, 64], "title": "The Gaming District", "icon": "poi.png" }
 			],
@@ -303,7 +303,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-540, -100, 64], "title": "Hermit Post Co.", "icon": "pearl.png" },
 
-				{ "pos": [-574, 741, 64], "title": "Xisuma's brewery", "icon": "xisuma.png" }
+				{ "pos": [-574, 741, 64], "title": "Xisuma's brewery", "icon": "xisuma.png" },
 
 				{ "pos": [284, -2435, 64], "title": "Xisuma's pixel art", "icon": "xisuma.png" },
 				
@@ -324,8 +324,6 @@ var MAPCRAFTER_MARKERS = [
 				//{ "pos": [-295, 60, 64], "title": "Iskall's monstrosity/monolith", "icon": "iskall.png" },
 
 				{ "pos": [-358, -154, 64], "title": "Hermitcraft Fanart Gallery", "icon": "poi.png" },
-				
-
 				
 				{ "pos": [-670, -485, 64], "title": "Magic Mountain volcano/void hole", "icon": "poi.png" },
 
