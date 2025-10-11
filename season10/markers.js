@@ -241,7 +241,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [289, 213, 64], "title": "Big Wood (Doc)", "icon": "doc.png" },
 
-				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "ren.png" },
+				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "rendog.png" },
 
 				{ "pos": [646, 189, 64], "title": "Gem's trident shop", "icon": "gemini.png" },
 
